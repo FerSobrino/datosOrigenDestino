@@ -7,3 +7,5 @@ Detro del zip encontraras los siguientes csv con las siguientes características
 
 * Viajes.csv: contiene toda la información de los viajes. Las variables de municipio, estado y distrito de origen siguen la nomenclatura del INEGI
 * Transporte.csv: información sobre los medios de transporte utilizados
+
+trips_limpia: contiene el merge de las dos bases para la tarea 3 bis
